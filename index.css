@@ -1,0 +1,64 @@
+header {
+	font-family: helvetica; 
+	font-size: .75em;
+	text-align: center;
+	text-indent: 10px;
+	background: black;
+	color: white;
+	padding: .25em 0;
+}
+
+h1 {
+	margin: 3em 0 0 0;
+}
+
+h2 {
+	margin: 0 0 .5em 0;
+	font-size: 1em;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: 00FFFF;
+}
+
+a:hover {
+	color: #FF1493;
+}
+
+a:active {
+	color: purple;
+}
+
+ul {
+	font-family: helvetica;
+	font-size: 1em;
+	margin: 0 0 0 .25em;
+	list-style: none;
+	text-align: left;
+	padding: .25em;
+	margin-bottom: 2em;
+}
+
+li {
+	margin: .5em 0;
+}
+
+#wrap {
+	min-height: 100vh;
+}
+
+footer {
+	font-family: helvetica; 
+	font-size: 0.75em;
+	color: #FF1493;
+	text-align: center;
+	padding-top: 5em;
+}
